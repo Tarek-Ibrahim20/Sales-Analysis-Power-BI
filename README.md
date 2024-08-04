@@ -21,3 +21,8 @@ The third page focused on territory analysis. We examined the number of orders a
 ![Territory](https://github.com/Tarek-Ibrahim20/Sales-Analysis-Project-Power-BI/blob/2db0b9776a0de9186d9a5116a054a82233c573df/Territory%20Report.png)
 
 Overall, this project allowed us to effectively present the required information and gain valuable insights using the advanced data visualization capabilities of Power BI Software.
+
+### Project file to interact with
+here is the pbix file, feel free to download into your local device and interact with it. <br/>
+
+
