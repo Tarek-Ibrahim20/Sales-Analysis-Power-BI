@@ -24,5 +24,8 @@ Overall, this project allowed us to effectively present the required information
 
 ### Project file to interact with
 here is the pbix file, feel free to download into your local device and interact with it. <br/>
+https://github.com/Tarek-Ibrahim20/Sales-Analysis-Power-BI/blob/574c1ee09ec631aefe730d792cc953ff8df876d9/Sales%20Dashboard.pbix
 
-
+## Feel free to contact me for any info
+### LinkdIn: [linkedin.com/in/tarek-ebrahim20](https://www.linkedin.com/in/tarek-ebrahim20)
+### Email: tareke.albeahy20@gmail.com
